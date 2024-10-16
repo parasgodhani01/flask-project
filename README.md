@@ -1,4 +1,4 @@
-# Flask Machine Leearning Project
+# Flask Machine Learning Project
 
 ## Overview
 
