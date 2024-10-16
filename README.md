@@ -1,4 +1,4 @@
-# Flask Course Session 8 - Machine Learning Project
+# Flask Machine Leearning Project
 
 ## Overview
 
